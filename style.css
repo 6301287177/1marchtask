@@ -1,0 +1,61 @@
+body{
+    background:linear-gradient(#4287f5 25%,#5df542 50%,#f55442 75%,#42e6f5 100%); 
+    font-family: monospace;
+    font-size: 30;
+    
+}
+
+
+.shop{
+    display: flex;
+    
+    margin: 10px;
+   
+}
+
+.js{
+
+    width:25%;
+    float:left;
+  
+    border: double 10px orange;
+    margin: 5px;
+    border-radius: 10px;
+
+}
+.js1{
+    width:25%;
+    float:left;
+  
+  
+    border:double 10px purple;
+    margin: 5px;
+    border-radius: 10px ;
+    
+
+}
+.js2{
+    width: 25%;
+    float:left;
+  
+    border: double 10px green;
+    margin:5px;
+    border-radius: 10px ;
+
+}
+.js3{
+    width:25%;
+    float:left;
+  
+    border: double 10px yellow;
+    margin: 5px;
+    border-radius: 10px ;
+
+}
+
+
+
+
+
+
+   
